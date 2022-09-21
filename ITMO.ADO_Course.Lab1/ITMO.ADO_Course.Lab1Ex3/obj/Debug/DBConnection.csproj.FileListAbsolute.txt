@@ -1,0 +1,11 @@
+C:\Users\ext-abdullina\ITMO\ADO_NOT_MINE\ITMO.SoftEng2022.ADO.NET-main\ITMO.SoftEng2022.ADO.NET.Lab1Ex3\bin\Debug\DBConnection.exe.config
+C:\Users\ext-abdullina\ITMO\ADO_NOT_MINE\ITMO.SoftEng2022.ADO.NET-main\ITMO.SoftEng2022.ADO.NET.Lab1Ex3\bin\Debug\DBConnection.exe
+C:\Users\ext-abdullina\ITMO\ADO_NOT_MINE\ITMO.SoftEng2022.ADO.NET-main\ITMO.SoftEng2022.ADO.NET.Lab1Ex3\bin\Debug\DBConnection.pdb
+C:\Users\ext-abdullina\ITMO\ADO_NOT_MINE\ITMO.SoftEng2022.ADO.NET-main\ITMO.SoftEng2022.ADO.NET.Lab1Ex3\obj\Debug\DBConnection.csproj.AssemblyReference.cache
+C:\Users\ext-abdullina\ITMO\ADO_NOT_MINE\ITMO.SoftEng2022.ADO.NET-main\ITMO.SoftEng2022.ADO.NET.Lab1Ex3\obj\Debug\DBConnection.csproj.SuggestedBindingRedirects.cache
+C:\Users\ext-abdullina\ITMO\ADO_NOT_MINE\ITMO.SoftEng2022.ADO.NET-main\ITMO.SoftEng2022.ADO.NET.Lab1Ex3\obj\Debug\DBConnection.Form1.resources
+C:\Users\ext-abdullina\ITMO\ADO_NOT_MINE\ITMO.SoftEng2022.ADO.NET-main\ITMO.SoftEng2022.ADO.NET.Lab1Ex3\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\ext-abdullina\ITMO\ADO_NOT_MINE\ITMO.SoftEng2022.ADO.NET-main\ITMO.SoftEng2022.ADO.NET.Lab1Ex3\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\ext-abdullina\ITMO\ADO_NOT_MINE\ITMO.SoftEng2022.ADO.NET-main\ITMO.SoftEng2022.ADO.NET.Lab1Ex3\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\ext-abdullina\ITMO\ADO_NOT_MINE\ITMO.SoftEng2022.ADO.NET-main\ITMO.SoftEng2022.ADO.NET.Lab1Ex3\obj\Debug\DBConnection.exe
+C:\Users\ext-abdullina\ITMO\ADO_NOT_MINE\ITMO.SoftEng2022.ADO.NET-main\ITMO.SoftEng2022.ADO.NET.Lab1Ex3\obj\Debug\DBConnection.pdb
