@@ -1,0 +1,14 @@
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\bin\Debug\ITMO.ADO_Course.Exam_Task.exe.config
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\bin\Debug\ITMO.ADO_Course.Exam_Task.exe
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\bin\Debug\ITMO.ADO_Course.Exam_Task.pdb
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\obj\Debug\ITMO.ADO_Course.Exam_Task.csproj.AssemblyReference.cache
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\obj\Debug\ITMO.ADO_Course.Exam_Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\obj\Debug\ITMO.ADO_Course.Exam_Task.FillOrCancel.resources
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\obj\Debug\ITMO.ADO_Course.Exam_Task.Navigation.resources
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\obj\Debug\ITMO.ADO_Course.Exam_Task.NewCustomer.resources
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\obj\Debug\ITMO.ADO_Course.Exam_Task.Properties.Resources.resources
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\obj\Debug\ITMO.ADO_Course.Exam_Task.csproj.GenerateResource.cache
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\obj\Debug\ITMO.ADO_Course.Exam_Task.csproj.CoreCompileInputs.cache
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\obj\Debug\ITMO.ADO_Course.Exam_Task.exe
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\obj\Debug\ITMO.ADO_Course.Exam_Task.pdb
+C:\Users\ext-abdullina\ITMO\ADO_MINE\ITMO.ADO_Course\ITMO.ADO_Course.Exam_Task\obj\Debug\ITMO.ADO_Course.Exam_Task.Authorization.resources
